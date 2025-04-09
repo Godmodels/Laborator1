@@ -1,3 +1,5 @@
+//Можете оценить прошлые работы пожалуйста, все ссылки прислал Вам в обмен файлов. Буду премного благодарен <3
+
 public class Graph1 {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
         List<List<Integer>> graph = new ArrayList<>();
