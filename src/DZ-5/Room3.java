@@ -1,4 +1,4 @@
-public class RoomThreeSolution {
+public class Room3 {
     private char[][] maze;
     private boolean[][] visited;
     private int n;

@@ -1,4 +1,4 @@
-public class FindCycleFiveSolution {
+public class FindCycle5 {
     private List<List<Integer>> graph;
     private boolean[] visited;
     private int[] parent;

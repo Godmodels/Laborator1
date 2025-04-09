@@ -1,4 +1,4 @@
-public class FindIfPathExistsInGraph {
+public class Graph1 {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
         List<List<Integer>> graph = new ArrayList<>();
 

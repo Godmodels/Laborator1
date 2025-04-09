@@ -1,4 +1,4 @@
-public class PathGraphFourSolution {
+public class PathGraph4 {
     private List<List<Integer>> graph;
     private boolean[] visited;
     private int[] parent;

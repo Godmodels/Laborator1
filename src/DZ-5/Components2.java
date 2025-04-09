@@ -1,4 +1,4 @@
-public class ComponentsTwoSolution {
+public class Components2 {
     private List<List<Integer>> graph;
     private boolean[] visited;
     private List<List<Integer>> components;
